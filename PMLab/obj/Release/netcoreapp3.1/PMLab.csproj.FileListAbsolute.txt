@@ -1,0 +1,12 @@
+C:\Users\Marinka\source\repos\PMLab\PMLab\bin\Release\netcoreapp3.1\PMLab.exe
+C:\Users\Marinka\source\repos\PMLab\PMLab\bin\Release\netcoreapp3.1\PMLab.deps.json
+C:\Users\Marinka\source\repos\PMLab\PMLab\bin\Release\netcoreapp3.1\PMLab.runtimeconfig.json
+C:\Users\Marinka\source\repos\PMLab\PMLab\bin\Release\netcoreapp3.1\PMLab.runtimeconfig.dev.json
+C:\Users\Marinka\source\repos\PMLab\PMLab\bin\Release\netcoreapp3.1\PMLab.dll
+C:\Users\Marinka\source\repos\PMLab\PMLab\bin\Release\netcoreapp3.1\PMLab.pdb
+C:\Users\Marinka\source\repos\PMLab\PMLab\obj\Release\netcoreapp3.1\PMLab.csproj.CoreCompileInputs.cache
+C:\Users\Marinka\source\repos\PMLab\PMLab\obj\Release\netcoreapp3.1\PMLab.AssemblyInfoInputs.cache
+C:\Users\Marinka\source\repos\PMLab\PMLab\obj\Release\netcoreapp3.1\PMLab.AssemblyInfo.cs
+C:\Users\Marinka\source\repos\PMLab\PMLab\obj\Release\netcoreapp3.1\PMLab.dll
+C:\Users\Marinka\source\repos\PMLab\PMLab\obj\Release\netcoreapp3.1\PMLab.pdb
+C:\Users\Marinka\source\repos\PMLab\PMLab\obj\Release\netcoreapp3.1\PMLab.genruntimeconfig.cache
